@@ -2,275 +2,372 @@ recipe	ingredient	quantity	unit	component	note
 Beef & Broccoli	Beef	150	g		
 Beef & Broccoli	Broccoli	150	g		
 Beef & Broccoli	Ginger	3	g		
-Beef & Broccoli	Shoyu	30	ml		
-Beef & Broccoli	Oyster sauce	20	ml		
+Beef & Broccoli	Shoyu	15	ml	Sauce	
+Beef & Broccoli	Oyster sauce	10	ml	Sauce	
 Beef & Broccoli	Cornstarch	5	g		
 Beef & Broccoli	Garlic	5	g		
-Beef & Broccoli	Pak choi	1	unit		
+Beef & Broccoli	Pak choi	0.5	unit		
+Beef & Broccoli	Rice	75	g	Side	dry
+Beef & Broccoli	Vegetable oil	5	ml		
 Burger	Lettuce	20	g		
-Burger	Tomato	30	g		
-Burger	Cheddar	30	g		
-Burger	Mayonnaise	10	ml		
-Burger	Minced beef	400	g		
-Burger	Burger bun	3	unit		
-Burger	Cheese	20	g		
+Burger	Tomato	100	g		
+Burger	Cheddar	40	g		
+Burger	Mayonnaise	20	ml		
+Burger	Minced beef	300	g		
+Burger	Burger bun	2	unit		
 Burger	Bacon	20	g		
 Burger	Onion	0.5	unit		
-Carbonara	Bacon	70	g		
-Carbonara	Egg	2	unit		
-Carbonara	Parmesan	50	g		
-Carbonara	Rucola	100	g		
-Carbonara	Spaghetti	100	g		
+Burger	Salt	1	g		
+Burger	Black pepper	0.5	g		
+Carbonara	Bacon	50	g		
+Carbonara	Egg	1	unit		pasteurized if serving lightly cooked
+Carbonara	Parmesan	25	g		
+Carbonara	Rucola	40	g	Side	
+Carbonara	Spaghetti	90	g		dry
 Carbonara	Black pepper	1	g		
+Carbonara	Salt	2	g	Cooking water	
 Cheese fondue	Gruyère	100	g		
 Cheese fondue	Emmental	50	g		
-Cheese fondue	Garlic bread				
-Cheese fondue	Broccoli				
-Cheese fondue	Nuggets				
-Cheese fondue	Carrot				
-Cheese fondue	Brussels sprouts				
-Cheese fondue	Potato				
-Cheese fondue	White wine	80	ml	Cheese mix	
+Cheese fondue	Garlic bread	0.25	unit	Dippers	quarter of a baguette
+Cheese fondue	Broccoli	30	g	Dippers	
+Cheese fondue	Nuggets	30	g	Dippers	
+Cheese fondue	Carrot	30	g	Dippers	
+Cheese fondue	Brussels sprouts	30	g	Dippers	
+Cheese fondue	Potato	60	g	Dippers	
+Cheese fondue	White wine	60	ml	Cheese mix	
 Cheese fondue	Garlic	5	g	Cheese mix	
-Cheese fondue	Nutmeg	1	g	Cheese mix	
-Cheese fondue	Tomato				
-Cheese fondue	Mushroom				
-Cheese fondue	Bell pepper				
-Cheese fondue	Baby corn				
-Chilli con carne	Minced beef	125	g		
+Cheese fondue	Nutmeg	0.2	g	Cheese mix	
+Cheese fondue	Tomato	30	g	Dippers	
+Cheese fondue	Mushroom	30	g	Dippers	
+Cheese fondue	Bell pepper	0.2	unit	Dippers	
+Cheese fondue	Baby corn	30	g	Dippers	
+Cheese fondue	Cornstarch	5	g	Cheese mix	
+Chilli con carne	Minced beef	250	g		
 Chilli con carne	Bell pepper	1	unit		red
-Chilli con carne	Kidney beans	100	g		
-Chilli con carne	Carrot	2	unit		
-Chilli con carne	Chickpeas	100	g		
+Chilli con carne	Kidney beans	150	g		drained
+Chilli con carne	Carrot	100	g		
+Chilli con carne	Chickpeas	100	g		drained
 Chilli con carne	Coriander	5	g		
-Chilli con carne	Rice	200	g		
-Chilli con carne	Bell pepper	1	unit		
+Chilli con carne	Rice	140	g		dry
 Chilli con carne	Onion	1	unit		
-Chilli con carne	Garlic	4	unit		
+Chilli con carne	Garlic	10	g		
 Chilli con carne	Tomato paste	20	g		
-Chilli con carne	Crushed tomato	150	g		
-Chilli con carne	Cumin	15	g		
-Croque Madame	Bread	120	g		
-Croque Madame	Butter	15	g	Bechamel sauce	
-Croque Madame	Milk	120	ml	Bechamel sauce	
-Croque Madame	Cheese	15	g		Gruyère or Parmesan
+Chilli con carne	Crushed tomato	300	g		
+Chilli con carne	Cumin	3	g		
+Chilli con carne	Vegetable oil	10	ml		
+Chilli con carne	Salt	2	g		
+Chilli con carne	Black pepper	0.5	g		
+Croque Madame	Bread	100	g		
+Croque Madame	Butter	10	g	Bechamel sauce	
+Croque Madame	Milk	100	ml	Bechamel sauce	
+Croque Madame	Cheese	40	g		Gruyère or Parmesan
 Croque Madame	Ham	60	g		or roasted beef
 Croque Madame	Flour	10	g	Bechamel sauce	
 Croque Madame	Mustard	5	ml		Dijon
-Croque Madame	Nutmeg	1	g	Bechamel sauce	
-Croque Madame	Egg				
-Dogão	Potato	30	g	Potato puree	
-Dogão	Milk			Potato puree	
-Dogão	Cheese			Potato puree	
-Dogão	Ketchup			Sauce	
-Dogão	Mayonnaise			Sauce	
-Dogão	Onion	0.5	unit	Vinagrete	
+Croque Madame	Nutmeg	0.2	g	Bechamel sauce	
+Croque Madame	Egg	1	unit	Topping	
+Croque Madame	Vegetable oil	5	ml		
+Croque Madame	Salt	0.5	g	Bechamel sauce	
+Croque Madame	Black pepper	0.2	g	Bechamel sauce	
+Dogão	Potato	80	g	Potato puree	
+Dogão	Milk	20	ml	Potato puree	
+Dogão	Cheese	15	g	Potato puree	
+Dogão	Ketchup	15	ml	Sauce	
+Dogão	Mayonnaise	10	ml	Sauce	
+Dogão	Onion	0.2	unit	Vinagrete	
 Dogão	Tomato	50	g	Vinagrete	
-Dogão	Olive oil			Vinagrete	
-Dogão	Salt			Vinagrete	
+Dogão	Olive oil	5	ml	Vinagrete	
+Dogão	Salt	0.5	g	Vinagrete	
+Dogão	Rice vinegar	5	ml	Vinagrete	
 Dogão	Hot dog bun	1	unit		
 Dogão	Hot dog sausage	1	unit		
-Dogão	Batata Palha				
+Dogão	Batata Palha	15	g	Topping	
 Dogão	Cabbage	20	g		
-Dogão	Peas				
+Dogão	Peas	30	g	Topping	
 Dutch AVG	Potato	500	g		
-Dutch AVG	Vegetable mix	500	g		seasonal
-Dutch AVG	Meat	100	g		
-Easy Pizza	Lebanese wraps	4	unit		
-Easy Pizza	Tomato sauce	80	ml		
-Easy Pizza	Mozzarella	100	g		
-Easy Pizza	Gouda	100	g		
-Easy Pizza	Beleg	150	g		
-Easy Pizza	Mushroom	100	g		
+Dutch AVG	Vegetable mix	400	g		seasonal
+Dutch AVG	Meat	300	g		boneless pork chops
+Dutch AVG	Vegetable oil	10	ml		
+Dutch AVG	Salt	2	g		
+Dutch AVG	Black pepper	0.5	g		
+Easy Pizza	Lebanese wraps	2	unit		
+Easy Pizza	Tomato sauce	120	ml		
+Easy Pizza	Mozzarella	125	g		
+Easy Pizza	Gouda	50	g		
+Easy Pizza	Beleg	100	g		ready-to-eat ham or sliced meat
+Easy Pizza	Mushroom	150	g		
 Easy Pizza	Basil	5	g		
 Easy Pizza	Onion	0.25	unit		
 Fish sticks and spinach	Fish sticks	150	g		
-Fish sticks and spinach	Spinach	100	g		
-Fish sticks and spinach	Potato	100	g		
-Gỏi cuốn/Gỏi nem cuốn	Fish	50	g		
-Gỏi cuốn/Gỏi nem cuốn	Lettuce	20	g		
-Gỏi cuốn/Gỏi nem cuốn	Carrot	20	g		
+Fish sticks and spinach	Spinach	150	g		
+Fish sticks and spinach	Potato	200	g		
+Fish sticks and spinach	Butter	5	g		
+Fish sticks and spinach	Salt	0.5	g		
+Fish sticks and spinach	Black pepper	0.2	g		
+Gỏi cuốn/Gỏi nem cuốn	Fish	100	g		boneless fillet
+Gỏi cuốn/Gỏi nem cuốn	Lettuce	40	g		
+Gỏi cuốn/Gỏi nem cuốn	Carrot	40	g		
 Gỏi cuốn/Gỏi nem cuốn	Mint	5	g		
-Gỏi cuốn/Gỏi nem cuốn	Bean sprouts				
-Gỏi cuốn/Gỏi nem cuốn	Peanut sauce				
-Gỏi cuốn/Gỏi nem cuốn	Rice paper	3	unit		
-Gỏi cuốn/Gỏi nem cuốn	Rice vermicelli	30	g		
-Gỏi cuốn/Gỏi nem cuốn	Hoisin sauce				
-Hiyashi Chuka	Ginger	12.5	g	Sauce	
-Hiyashi Chuka	Shoyu	90	ml	Sauce	
-Hiyashi Chuka	Rice vinegar	45	ml	Sauce	
-Hiyashi Chuka	Broth	30	ml	Sauce	chicken
-Hiyashi Chuka	Sugar	50	g	Sauce	
-Hiyashi Chuka	Sesame oil	30	ml	Sauce	
-Hiyashi Chuka	Cucumber	50	g		
-Hiyashi Chuka	Tomato	50	g		
+Gỏi cuốn/Gỏi nem cuốn	Bean sprouts	40	g		
+Gỏi cuốn/Gỏi nem cuốn	Peanut sauce	15	ml	Dip	ready-to-use sauce
+Gỏi cuốn/Gỏi nem cuốn	Rice paper	4	unit		
+Gỏi cuốn/Gỏi nem cuốn	Rice vermicelli	50	g		dry
+Gỏi cuốn/Gỏi nem cuốn	Hoisin sauce	10	ml	Dip	
+Hiyashi Chuka	Ginger	3	g	Sauce	
+Hiyashi Chuka	Shoyu	15	ml	Sauce	
+Hiyashi Chuka	Rice vinegar	15	ml	Sauce	
+Hiyashi Chuka	Broth	20	ml	Sauce	prepared chicken broth
+Hiyashi Chuka	Sugar	5	g	Sauce	
+Hiyashi Chuka	Sesame oil	5	ml	Sauce	
+Hiyashi Chuka	Cucumber	80	g		
+Hiyashi Chuka	Tomato	80	g		
 Hiyashi Chuka	Roasted beef	50	g		
 Hiyashi Chuka	Egg	1	unit		
 Hiyashi Chuka	Surimi	25	g		
-Hiyashi Chuka	Noodles	150	g		
+Hiyashi Chuka	Noodles	80	g		dry
 Hiyashi Chuka	Sesame seeds	5	g		
-Hiyashi Chuka	Karashi mustard	5	ml		
+Hiyashi Chuka	Karashi mustard	2	ml		
 Hiyashi Chuka	Beni shoga	5	g		
 Kare	Meat	150	g		
 Kare	Carrot	100	g		
 Kare	Potato	100	g		
-Kare	Rice	150	g		
+Kare	Rice	75	g		dry
 Kare	Onion	50	g		
-Kare	Japanese curry roux	10	g		
-Katsudon	Meat			Breadcrumb mix	
-Katsudon	Egg			Breadcrumb mix	
-Katsudon	Salt			Breadcrumb mix	
-Katsudon	Black pepper			Breadcrumb mix	
-Katsudon	Flour			Breadcrumb mix	
-Katsudon	Panko			Breadcrumb mix	
-Katsudon	Dashi			Sauce	
-Katsudon	Shoyu			Sauce	
-Katsudon	Mirin			Sauce	
-Katsudon	Sugar			Sauce	
-Katsudon	Onion			Sauce	
-Katsudon	Spring onion				
-Lasagna	Minced beef	100	g		
-Lasagna	Tomato sauce	100	ml		
-Lasagna	Cheese	100	g		
-Lasagna	Spinach				
-Lasagna	Lasagna sheets	100	g		
-Nasi	Chicken	100	g		
-Nasi	Vegetable mix	100	g		
+Kare	Japanese curry roux	20	g		adjust water to package directions
+Kare	Vegetable oil	5	ml		
+Katsudon	Meat	150	g	Cutlet	boneless pork loin
+Katsudon	Egg	1	unit	Breadcrumb mix	
+Katsudon	Salt	0.5	g	Breadcrumb mix	
+Katsudon	Black pepper	0.2	g	Breadcrumb mix	
+Katsudon	Flour	15	g	Breadcrumb mix	
+Katsudon	Panko	30	g	Breadcrumb mix	
+Katsudon	Dashi	100	ml	Sauce	prepared liquid
+Katsudon	Shoyu	10	ml	Sauce	
+Katsudon	Mirin	10	ml	Sauce	
+Katsudon	Sugar	3	g	Sauce	
+Katsudon	Onion	0.5	unit	Sauce	
+Katsudon	Egg	1	unit	Final simmer	
+Katsudon	Spring onion	10	g	Topping	
+Katsudon	Rice	75	g	Side	dry
+Katsudon	Vegetable oil	30	ml	Frying	shallow-fry in a small pan
+Lasagna	Minced beef	125	g		
+Lasagna	Tomato sauce	200	ml		
+Lasagna	Cheese	50	g		
+Lasagna	Spinach	100	g		
+Lasagna	Lasagna sheets	75	g		dry; oven-ready
+Lasagna	Onion	0.25	unit		
+Lasagna	Garlic	5	g		
+Lasagna	Olive oil	5	ml		
+Lasagna	Salt	0.5	g		
+Lasagna	Black pepper	0.2	g		
+Nasi	Chicken	125	g		
+Nasi	Vegetable mix	200	g		
 Nasi	Garlic	5	g		
 Nasi	Spring onion	10	g		
-Nasi	Rice	150	g		
+Nasi	Rice	75	g		dry
 Nasi	Shoyu	15	ml		
-Okonomiyaki	Flour	60	g	Batter	
-Okonomiyaki	Dashi	90	ml	Batter	
-Okonomiyaki	Nagaimo	80	g	Batter	or yamaimo
+Nasi	Vegetable oil	5	ml		
+Okonomiyaki	Flour	50	g	Batter	
+Okonomiyaki	Dashi	60	ml	Batter	prepared liquid
+Okonomiyaki	Nagaimo	40	g	Batter	or yamaimo
 Okonomiyaki	Salt	1	g	Batter	
 Okonomiyaki	Sugar	1	g	Batter	
 Okonomiyaki	Baking powder	1	g	Batter	
-Okonomiyaki	Sugar	15	g	Sauce	
-Okonomiyaki	Oyster sauce	20	ml	Sauce	
-Okonomiyaki	Ketchup	40	ml	Sauce	
-Okonomiyaki	Worcestershire sauce	35	ml	Sauce	
+Okonomiyaki	Sugar	3	g	Sauce	
+Okonomiyaki	Oyster sauce	5	ml	Sauce	
+Okonomiyaki	Ketchup	10	ml	Sauce	
+Okonomiyaki	Worcestershire sauce	10	ml	Sauce	
 Okonomiyaki	Japanese mayo	10	ml	Topping	
-Okonomiyaki	Katsuobushi	5	g	Topping	
-Okonomiyaki	Nori			Topping	
+Okonomiyaki	Katsuobushi	2	g	Topping	
+Okonomiyaki	Nori	0.25	unit	Topping	sheet; shredded
 Okonomiyaki	Beni shoga	5	g	Topping	
-Okonomiyaki	Bacon	115	g		
-Okonomiyaki	Cabbage	320	g		
+Okonomiyaki	Bacon	50	g		
+Okonomiyaki	Cabbage	180	g		
 Okonomiyaki	Spring onion	10	g		
-Okonomiyaki	Egg	2	unit		
-Okonomiyaki	Okonomiyaki sauce	15	ml		
-Okonomiyaki	Tenkasu	25	g		agedama
-Orange Chicken	Orange juice	200	ml	Sauce	
-Orange Chicken	Cornstarch	5	g	Sauce	
-Orange Chicken	Vegetable oil	10	g	Sauce	
-Orange Chicken	Shoyu	15	ml	Sauce	
-Orange Chicken	Rice vinegar	5	ml	Sauce	
-Orange Chicken	Brown sugar	10	g	Sauce	
+Okonomiyaki	Egg	1	unit	Batter	
+Okonomiyaki	Tenkasu	10	g		agedama
+Okonomiyaki	Vegetable oil	5	ml		
+Orange Chicken	Orange juice	150	ml	Sauce	
+Orange Chicken	Cornstarch	8	g	Sauce	
+Orange Chicken	Vegetable oil	10	ml	Sauce	
+Orange Chicken	Shoyu	20	ml	Sauce	
+Orange Chicken	Rice vinegar	10	ml	Sauce	
+Orange Chicken	Brown sugar	15	g	Sauce	
 Orange Chicken	Ginger	5	g	Sauce	
-Orange Chicken	Garlic	4	unit	Sauce	
-Orange Chicken	Black pepper	5	g	Sauce	
-Orange Chicken	Orange	1	unit	Sauce	zest
-Orange Chicken	Rice	200	g		
-Orange Chicken	Karaage chicken	400	g		
+Orange Chicken	Garlic	10	g	Sauce	
+Orange Chicken	Black pepper	0.5	g	Sauce	
+Orange Chicken	Orange	0.5	unit	Sauce	zest; serve flesh on the side
+Orange Chicken	Rice	150	g		dry
+Orange Chicken	Karaage chicken	300	g		
+Orange Chicken	Broccoli	300	g	Side	
 Oven Burrito + nachos	Tortilla	1	unit		
-Oven Burrito + nachos	Chicken	100	g		
-Oven Burrito + nachos	Salsa	60	ml		
-Oven Burrito + nachos	Cheddar	50	g		
-Oven Burrito + nachos	Nachos	50	g		
+Oven Burrito + nachos	Chicken	125	g		
+Oven Burrito + nachos	Salsa	40	ml		
+Oven Burrito + nachos	Cheddar	30	g		
+Oven Burrito + nachos	Nachos	30	g		
 Oven Burrito + nachos	Sour cream	20	g		
-Oven Burrito + nachos	Bell pepper				
-Oven Burrito + nachos	Avocado				
-Oven Burrito + nachos	Mushroom				
-Oven Burrito + nachos	Tomato				
-Oven Burrito + nachos	Onion				
-Oyakodon	Chicken thigh	1	unit		marinate in sake
-Oyakodon	Dashi	120	ml	Sauce	
-Oyakodon	Shoyu	10	ml	Sauce	
-Oyakodon	Mirin	10	ml	Sauce	
+Oven Burrito + nachos	Bell pepper	0.25	unit	Filling	
+Oven Burrito + nachos	Avocado	0.25	unit	Topping	
+Oven Burrito + nachos	Mushroom	40	g	Filling	
+Oven Burrito + nachos	Tomato	50	g	Topping	
+Oven Burrito + nachos	Onion	0.25	unit	Filling	
+Oven Burrito + nachos	Vegetable oil	5	ml		
+Oyakodon	Chicken thigh	300	g		boneless
+Oyakodon	Dashi	200	ml	Sauce	prepared liquid
+Oyakodon	Shoyu	20	ml	Sauce	
+Oyakodon	Mirin	20	ml	Sauce	
 Oyakodon	Sugar	10	g	Sauce	
-Oyakodon	Onion	0.5	unit		
-Oyakodon	Egg	2	unit		
+Oyakodon	Onion	1	unit		
+Oyakodon	Egg	3	unit		
 Oyakodon	Spring onion	10	g		
-Oyakodon	Rice	300	g		
-Oyakodon	Parsley				or mitsuba
-Pannenkoek	Milk	150	ml		
+Oyakodon	Rice	150	g		dry
+Oyakodon	Parsley	5	g	Topping	or mitsuba
+Pannenkoek	Milk	180	ml		
 Pannenkoek	Vegetable mix	150	g		
-Pannenkoek	Cheese	50	g		
-Pannenkoek	Bacon	50	g		
-Pannenkoek	Flour	100	g		
-Parmigiana	Meat	100	g		
+Pannenkoek	Cheese	30	g		
+Pannenkoek	Bacon	30	g		
+Pannenkoek	Flour	75	g		dry
+Pannenkoek	Egg	1	unit	Batter	
+Pannenkoek	Butter	5	g	Frying	
+Parmigiana	Meat	150	g		chicken breast
 Parmigiana	Parmesan	20	g		
 Parmigiana	Egg	1	unit		
 Parmigiana	Tomato sauce	200	ml		
-Parmigiana	Garlic	3	unit		
-Parmigiana	Panko	50	g		
-Parmigiana	Onion	0.5	unit		
-Parmigiana	Rice	100	g		
-Ravioli	Tomato sauce	100	ml		
-Ravioli	Parmesan	50	g		
-Ravioli	Minced beef	150	g		
-Ravioli	Ravioli	150	g		or tortellini
-Risotto	Arborio rice	100	g		
-Risotto	Broth	300	ml		vegetable or chicken
+Parmigiana	Garlic	5	g		
+Parmigiana	Panko	30	g		
+Parmigiana	Onion	0.25	unit		
+Parmigiana	Rice	60	g		dry
+Parmigiana	Vegetable oil	10	ml		
+Parmigiana	Spinach	100	g	Side	
+Ravioli	Tomato sauce	150	ml		
+Ravioli	Parmesan	20	g		
+Ravioli	Minced beef	100	g		
+Ravioli	Ravioli	150	g		chilled; as sold; or tortellini
+Ravioli	Spinach	100	g		
+Ravioli	Olive oil	5	ml		
+Risotto	Arborio rice	80	g		dry
+Risotto	Broth	350	ml		prepared vegetable or chicken broth
 Risotto	White wine	30	ml		
-Risotto	Butter	10	g		
-Risotto	Zucchini				or eggplant
-Risotto	Rucola				
-Risotto	Mushroom				
+Risotto	Butter	5	g		
+Risotto	Zucchini	0.25	unit		or eggplant
+Risotto	Rucola	20	g	Topping	
+Risotto	Mushroom	75	g		
 Risotto	Onion	30	g		
-Risotto	Olive oil				
-Risotto	Salt				
-Risotto	Black pepper				
-Risotto	Garlic				
-Risotto	Parmesan				
-Risotto	Meat				
-Strogonoff	Meat	150	g		
+Risotto	Olive oil	5	ml		
+Risotto	Salt	0.5	g		adjust for broth saltiness
+Risotto	Black pepper	0.2	g		
+Risotto	Garlic	5	g		
+Risotto	Parmesan	20	g		
+Risotto	Meat	100	g		chicken breast
+Strogonoff	Meat	150	g		beef strips
 Strogonoff	Mushroom	100	g		
-Strogonoff	Sour cream	50	g		
-Strogonoff	Cooking cream	100	ml		creme de leite
-Strogonoff	Batata Palha	50	g		
+Strogonoff	Sour cream	25	g		
+Strogonoff	Cooking cream	50	ml		creme de leite
+Strogonoff	Batata Palha	20	g		
 Strogonoff	Onion	0.5	unit		
-Strogonoff	Garlic	2	unit		
+Strogonoff	Garlic	5	g		
 Strogonoff	Mustard	5	ml		
-Strogonoff	Tomato paste	50	g		
-Strogonoff	Rice	100	g		
+Strogonoff	Tomato paste	15	g		
+Strogonoff	Rice	75	g		dry
+Strogonoff	Vegetable oil	5	ml		
+Strogonoff	Salt	0.5	g		
+Strogonoff	Black pepper	0.2	g		
 Wrap	Tortilla	2	unit		or taco shells / naan
 Wrap	Chicken	100	g		
 Wrap	Lettuce	30	g		
-Wrap	Tomato	30	g	Guacamole	
-Wrap	Cucumber	25	g		
-Wrap	Salsa	50	g		
-Wrap	Cream cheese	25	g		
-Wrap	Avocado	1	unit	Guacamole	
-Wrap	Cheese	50	g		
-Wrap	Hummus	25	g		
-Wrap	Zucchini	50	g		or eggplant
-Wrap	Onion	0.5	unit	Guacamole	
-Yakisoba	Sesame oil			Sauce	
-Yakisoba	Worcestershire sauce	60	ml	Sauce	
-Yakisoba	Oyster sauce	20	ml	Sauce	
-Yakisoba	Ketchup	20	ml	Sauce	
+Wrap	Tomato	50	g	Guacamole	
+Wrap	Cucumber	50	g		
+Wrap	Salsa	25	ml		
+Wrap	Cream cheese	15	g		
+Wrap	Avocado	0.5	unit	Guacamole	
+Wrap	Cheese	20	g		
+Wrap	Hummus	20	g		
+Wrap	Zucchini	0.25	unit		or eggplant
+Wrap	Onion	0.2	unit	Guacamole	
+Wrap	Vegetable oil	5	ml		
+Yakisoba	Sesame oil	5	ml	Sauce	
+Yakisoba	Worcestershire sauce	10	ml	Sauce	
+Yakisoba	Oyster sauce	10	ml	Sauce	
+Yakisoba	Ketchup	10	ml	Sauce	
 Yakisoba	Shoyu	10	ml	Sauce	
-Yakisoba	Sugar	10	g	Sauce	
-Yakisoba	Yakisoba noodles	150	g		
-Yakisoba	Meat	100	g		
-Yakisoba	Cabbage	227	g		
-Yakisoba	Carrot	1	unit		
-Yakisoba	Onion	0.5	unit		
-Yakisoba	Broccoli				
+Yakisoba	Sugar	3	g	Sauce	
+Yakisoba	Yakisoba noodles	150	g		chilled; as sold
+Yakisoba	Meat	125	g		pork strips
+Yakisoba	Cabbage	100	g		
+Yakisoba	Carrot	40	g		
+Yakisoba	Onion	0.25	unit		
+Yakisoba	Broccoli	60	g		
 Yakisoba	Shiitake mushroom	40	g		
+Yakisoba	Vegetable oil	5	ml		
 Bobotie	Minced beef	300	g		
 Bobotie	Onion	1	unit		
 Bobotie	Garlic	2	unit		
 Bobotie	Apple	1	unit		
 Bobotie	Apricot	1	unit		
-Bobotie	Cream cheese	75	g		
-Bobotie	Curry powder	10	g		
-Bobotie	Cumin	5	g		
+Bobotie	Cream cheese	50	g		
+Bobotie	Curry powder	5	g		
+Bobotie	Cumin	2	g		
 Bobotie	Cinnamon	1	g		
 Bobotie	Egg	2	unit	Top	
 Bobotie	Milk	150	ml	Top	
-Bobotie	Turmeric	3	g	Top	
-Bobotie	Bay leaf	3	unit	Top	
-Salad	Lettuce				
-Salad	Tomato				
+Bobotie	Turmeric	1	g	Top	
+Bobotie	Bay leaf	2	unit	Top	remove before eating
+Bobotie	Rice	140	g	Side	dry
+Bobotie	Vegetable oil	10	ml		
+Bobotie	Salt	1	g		
+Bobotie	Black pepper	0.5	g		
+Salad	Lettuce	60	g		
+Salad	Tomato	100	g		
+Salad	Cucumber	80	g		
+Salad	Chickpeas	120	g		drained
+Salad	Bread	60	g	Side	
+Salad	Olive oil	10	ml	Dressing	
+Salad	Lemon	0.25	unit	Dressing	juice
+Salad	Mustard	5	ml	Dressing	
+Salad	Salt	0.5	g	Dressing	
+Salad	Black pepper	0.2	g	Dressing	
+Egg salad sandwich	Bread	100	g		
+Egg salad sandwich	Egg	2	unit	Filling	
+Egg salad sandwich	Mayonnaise	15	ml	Filling	
+Egg salad sandwich	Mustard	5	ml	Filling	
+Egg salad sandwich	Lettuce	30	g		
+Egg salad sandwich	Salt	0.5	g	Filling	
+Egg salad sandwich	Black pepper	0.2	g	Filling	
+Ham and cheese toastie	Bread	100	g		
+Ham and cheese toastie	Ham	60	g		ready-to-eat
+Ham and cheese toastie	Cheese	40	g		
+Ham and cheese toastie	Butter	5	g		
+Ham and cheese toastie	Mustard	5	ml		
+Roast beef and mustard sandwich	Bread	100	g		
+Roast beef and mustard sandwich	Roasted beef	75	g		ready-to-eat
+Roast beef and mustard sandwich	Rucola	25	g		
+Roast beef and mustard sandwich	Tomato	80	g		
+Roast beef and mustard sandwich	Mustard	10	ml			
+Roasted vegetable and hummus wrap	Tortilla	1	unit		large; dairy-free
+Roasted vegetable and hummus wrap	Zucchini	0.25	unit	Filling	
+Roasted vegetable and hummus wrap	Bell pepper	0.5	unit	Filling	
+Roasted vegetable and hummus wrap	Onion	0.25	unit	Filling	
+Roasted vegetable and hummus wrap	Hummus	50	g		
+Roasted vegetable and hummus wrap	Olive oil	5	ml	Filling	
+Roasted vegetable and hummus wrap	Salt	0.5	g	Filling	
+Roasted vegetable and hummus wrap	Black pepper	0.2	g	Filling	
+Cold sesame noodle salad	Noodles	70	g		dry; egg-free or vegetarian
+Cold sesame noodle salad	Cucumber	80	g		
+Cold sesame noodle salad	Carrot	60	g		
+Cold sesame noodle salad	Egg	1	unit		
+Cold sesame noodle salad	Sesame seeds	5	g	Topping	
+Cold sesame noodle salad	Shoyu	10	ml	Dressing	
+Cold sesame noodle salad	Rice vinegar	10	ml	Dressing	
+Cold sesame noodle salad	Sesame oil	5	ml	Dressing	
+Spinach and cheese pancake	Black pepper	0.2	g	Filling	
+Chicken and mushroom pasta	Spaghetti	160	g		dry
+Chicken and mushroom pasta	Chicken	250	g		
+Chicken and mushroom pasta	Mushroom	200	g		
+Chicken and mushroom pasta	Onion	0.5	unit		
+Chicken and mushroom pasta	Garlic	10	g		
+Chicken and mushroom pasta	Cooking cream	100	ml	Sauce	
+Chicken and mushroom pasta	Parmesan	30	g	Topping	
+Chicken and mushroom pasta	Spinach	150	g		
+Chicken and mushroom pasta	Olive oil	10	ml		
+Chicken and mushroom pasta	Salt	2	g		divide between cooking water and sauce
+Chicken and mushroom pasta	Black pepper	0.5	g		

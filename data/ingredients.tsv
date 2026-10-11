@@ -15,6 +15,7 @@ Cucumber	Fruit & veg	FALSE	unit	1	350
 Garlic	Fruit & veg	TRUE	g	50	5
 Ginger	Fruit & veg	TRUE	g	100	
 Lettuce	Fruit & veg	FALSE	g	150;300	300
+Lemon	Fruit & veg	FALSE	unit	1;3	100
 Mint	Fruit & veg	FALSE	g	15	
 Mushroom	Fruit & veg	FALSE	g	250;400	
 Nagaimo	Fruit & veg	FALSE	g	300	
@@ -72,10 +73,10 @@ Peas	Frozen	TRUE	g	450
 Arborio rice	Pantry	TRUE	g	500	
 Batata Palha	Pantry	TRUE	g	120	
 Broth	Pantry	TRUE	ml	500;1000	
-Chickpeas	Pantry	TRUE	g	400	
+Chickpeas	Pantry	TRUE	g	240	
 Crushed tomato	Pantry	TRUE	g	400	
 Flour	Pantry	TRUE	g	1000	
-Kidney beans	Pantry	TRUE	g	400	
+Kidney beans	Pantry	TRUE	g	240	
 Lasagna sheets	Pantry	TRUE	g	250;500	
 Nachos	Pantry	TRUE	g	200;300	
 Noodles	Pantry	TRUE	g	250;400	

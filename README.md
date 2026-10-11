@@ -31,6 +31,14 @@ The app is local-first: browser data is not synced across devices. Ingredient ed
 - `data/instructions.tsv` contains recipe steps.
 - `data/ingredients.tsv` defines categories, package sizes, shelf-life behavior, and piece weights.
 
+The catalogue contains 47 recipes: 16 lunches and 31 dinners, all with measured ingredients and cooking instructions. Ingredient quantities are totals for the `servings` declared in `recipes.tsv`; the planner scales them for the selected number of people. Instructions describe the listed quantities, so scale any water amounts in the steps too.
+
+Notes distinguish dry rice, pasta and noodles from chilled products weighed as sold. Beans and chickpeas are weighed drained; their package sizes represent approximate drained contents (240 g for a typical 400 g can). Broth and dashi quantities refer to prepared liquid, not concentrate. Lemon quantities are fractions of a whole lemon, with juice or wedges specified in the notes.
+
+Recipes use one measured default combination, including toppings and cooking oil. Substitutions in notes or instructions replace ingredients rather than add to them; the planner counts every listed ingredient. Portions, package sizes and piece weights are practical estimates, not nutritional targets or store-specific guarantees. Adjust them to your products and appetite.
+
+Saved supermarket-table edits in the current browser override `ingredients.tsv`. Use a private browsing session to check the default metadata, or update your saved ingredient entries manually; existing planner data is not reset by a catalogue update.
+
 ## Future Roadmap
 
 If I have more time I want to add:
