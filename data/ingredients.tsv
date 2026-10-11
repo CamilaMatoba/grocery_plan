@@ -1,0 +1,125 @@
+ingredient	category	long_lasting	package_unit	package_sizes	unit_weight_g
+Apple	Fruit & veg	FALSE	unit	1;6	180
+Apricot	Fruit & veg	FALSE	unit	1	40
+Avocado	Fruit & veg	FALSE	unit	1;2	150
+Baby corn	Fruit & veg	FALSE	g	125	
+Basil	Fruit & veg	FALSE	g	15;30	
+Bean sprouts	Fruit & veg	FALSE	g	200;300	
+Bell pepper	Fruit & veg	FALSE	unit	1;3	150
+Broccoli	Fruit & veg	FALSE	g	500	500
+Brussels sprouts	Fruit & veg	FALSE	g	500	
+Cabbage	Fruit & veg	FALSE	g	300;600	
+Carrot	Fruit & veg	FALSE	g	500;1000	80
+Coriander	Fruit & veg	FALSE	g	15;30	
+Cucumber	Fruit & veg	FALSE	unit	1	350
+Garlic	Fruit & veg	TRUE	g	50	5
+Ginger	Fruit & veg	TRUE	g	100	
+Lettuce	Fruit & veg	FALSE	g	150;300	300
+Mint	Fruit & veg	FALSE	g	15	
+Mushroom	Fruit & veg	FALSE	g	250;400	
+Nagaimo	Fruit & veg	FALSE	g	300	
+Onion	Fruit & veg	TRUE	unit	1;3	150
+Orange	Fruit & veg	FALSE	unit	1	200
+Pak choi	Fruit & veg	FALSE	unit	1;2	250
+Parsley	Fruit & veg	FALSE	g	30	
+Potato	Fruit & veg	FALSE	g	1000;1500;2500	150
+Rucola	Fruit & veg	FALSE	g	75;125	
+Shiitake mushroom	Fruit & veg	FALSE	g	150	
+Spinach	Fruit & veg	FALSE	g	300	
+Spring onion	Fruit & veg	FALSE	g	100	15
+Tomato	Fruit & veg	FALSE	g	200;500	100
+Vegetable mix	Fruit & veg	FALSE	g	400	
+Zucchini	Fruit & veg	FALSE	unit	1	300
+Bacon	Meat & fish	FALSE	g	150;300	
+Beef	Meat & fish	FALSE	g	300;500	
+Chicken	Meat & fish	FALSE	g	300;500;1000	
+Chicken thigh	Meat & fish	FALSE	g	300;600	120
+Fish	Meat & fish	FALSE	g	200;400	
+Ham	Meat & fish	FALSE	g	100;150	
+Hot dog sausage	Meat & fish	FALSE	unit	6;8	
+Karaage chicken	Meat & fish	FALSE	g	400	
+Meat	Meat & fish	FALSE	g	300;500	
+Minced beef	Meat & fish	FALSE	g	300;500	
+Roasted beef	Meat & fish	FALSE	g	100;150	
+Surimi	Meat & fish	FALSE	g	120;250	
+Beleg	Meat & fish	FALSE	g	100;150	
+Butter	Dairy & eggs	TRUE	g	250	
+Cheddar	Dairy & eggs	FALSE	g	200;400	
+Cheese	Dairy & eggs	FALSE	g	150;300	
+Cooking cream	Dairy & eggs	FALSE	ml	125;250	
+Cream cheese	Dairy & eggs	FALSE	g	150;200	
+Egg	Dairy & eggs	FALSE	unit	6;10	55
+Emmental	Dairy & eggs	FALSE	g	150;250	
+Gouda	Dairy & eggs	FALSE	g	150;300	
+Gruyère	Dairy & eggs	FALSE	g	150;250	
+Milk	Dairy & eggs	FALSE	ml	500;1000;1500	
+Mozzarella	Dairy & eggs	FALSE	g	125;250	
+Parmesan	Dairy & eggs	FALSE	g	100;200	
+Sour cream	Dairy & eggs	FALSE	g	125;250	
+Bread	Bakery	FALSE	g	400;800	
+Burger bun	Bakery	FALSE	unit	4;6	
+Garlic bread	Bakery	FALSE	unit	1	
+Hot dog bun	Bakery	FALSE	unit	6	
+Lebanese wraps	Bakery	FALSE	unit	6	
+Tortilla	Bakery	FALSE	unit	6;8	
+Hummus	Chilled	FALSE	g	200	
+Ravioli	Chilled	FALSE	g	250	
+Orange juice	Chilled	FALSE	ml	1000;1500	
+Yakisoba noodles	Chilled	FALSE	g	150;450	
+Fish sticks	Frozen	TRUE	g	300;600	
+Nuggets	Frozen	TRUE	g	250;500	
+Peas	Frozen	TRUE	g	450	
+Arborio rice	Pantry	TRUE	g	500	
+Batata Palha	Pantry	TRUE	g	120	
+Broth	Pantry	TRUE	ml	500;1000	
+Chickpeas	Pantry	TRUE	g	400	
+Crushed tomato	Pantry	TRUE	g	400	
+Flour	Pantry	TRUE	g	1000	
+Kidney beans	Pantry	TRUE	g	400	
+Lasagna sheets	Pantry	TRUE	g	250;500	
+Nachos	Pantry	TRUE	g	200;300	
+Noodles	Pantry	TRUE	g	250;400	
+Panko	Pantry	TRUE	g	200	
+Rice	Pantry	TRUE	g	1000	
+Rice paper	Pantry	TRUE	unit	20	
+Rice vermicelli	Pantry	TRUE	g	250	
+Spaghetti	Pantry	TRUE	g	500	
+Tomato paste	Pantry	TRUE	g	70;140	
+Tomato sauce	Pantry	TRUE	ml	500	
+Baking powder	Baking & spices	TRUE	g	40	
+Bay leaf	Baking & spices	TRUE	unit	20	
+Black pepper	Baking & spices	TRUE	g	50	
+Brown sugar	Baking & spices	TRUE	g	500	
+Cinnamon	Baking & spices	TRUE	g	30	
+Cornstarch	Baking & spices	TRUE	g	400	
+Cumin	Baking & spices	TRUE	g	30	
+Curry powder	Baking & spices	TRUE	g	40	
+Japanese curry roux	Baking & spices	TRUE	g	92;220	
+Nutmeg	Baking & spices	TRUE	g	30	
+Salt	Baking & spices	TRUE	g	500	
+Sesame seeds	Baking & spices	TRUE	g	100	
+Sugar	Baking & spices	TRUE	g	1000	
+Turmeric	Baking & spices	TRUE	g	30	
+Beni shoga	Asian	TRUE	g	100	
+Dashi	Asian	TRUE	ml	500	
+Hoisin sauce	Asian	TRUE	ml	250	
+Japanese mayo	Asian	TRUE	ml	130;450	
+Karashi mustard	Asian	TRUE	ml	40	
+Katsuobushi	Asian	TRUE	g	30	
+Mirin	Asian	TRUE	ml	150;300	
+Nori	Asian	TRUE	unit	10	
+Okonomiyaki sauce	Asian	TRUE	ml	300	
+Oyster sauce	Asian	TRUE	ml	150	
+Peanut sauce	Asian	TRUE	ml	250	
+Rice vinegar	Asian	TRUE	ml	150	
+Sesame oil	Asian	TRUE	ml	150	
+Shoyu	Asian	TRUE	ml	250;500	
+Tenkasu	Asian	TRUE	g	100	
+Ketchup	Sauces & oils	TRUE	ml	500	
+Mayonnaise	Sauces & oils	TRUE	ml	300;500	
+Mustard	Sauces & oils	TRUE	ml	200	
+Olive oil	Sauces & oils	TRUE	ml	500;1000	
+Salsa	Sauces & oils	TRUE	ml	300	
+Vegetable oil	Sauces & oils	TRUE	ml	1000	
+White wine	Sauces & oils	TRUE	ml	750	
+Worcestershire sauce	Sauces & oils	TRUE	ml	150	

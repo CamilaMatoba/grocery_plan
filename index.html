@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Menu &amp; grocery planner</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Menu &amp; grocery planner</h1>
+  </header>
+
+  <section class="card" id="settings">
+    <label>Days per week <input type="number" id="days" min="1" max="14"></label>
+    <label>People <input type="number" id="people" min="1" max="20"></label>
+    <label>Weeks <input type="number" id="weeks" min="1" max="8"></label>
+    <label>Season
+      <select id="season">
+        <option>Winter</option><option>Spring</option><option>Summer</option><option>Autumn</option>
+      </select>
+    </label>
+    <fieldset>
+      <legend>Meals</legend>
+      <label class="inline"><input type="checkbox" id="meal-lunch"> Lunch</label>
+      <label class="inline"><input type="checkbox" id="meal-dinner"> Dinner</label>
+    </fieldset>
+    <button id="generate" class="primary">Generate plan</button>
+  </section>
+
+  <nav class="tabs" role="tablist">
+    <button data-tab="plan" class="active">Plan &amp; grocery list</button>
+    <button data-tab="fridge">My fridge</button>
+    <button data-tab="dishes">Dishes</button>
+    <button data-tab="market">Supermarket table</button>
+  </nav>
+
+  <main>
+    <section id="tab-plan" class="tab active"></section>
+    <section id="tab-fridge" class="tab"></section>
+    <section id="tab-dishes" class="tab"></section>
+    <section id="tab-market" class="tab"></section>
+  </main>
+
+  <p id="error" class="error" hidden></p>
+  <script type="module" src="app.js"></script>
+</body>
+</html>
